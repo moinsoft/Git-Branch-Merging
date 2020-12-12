@@ -1,0 +1,2 @@
+I am branch 2
+This file belongs to only branch 2
